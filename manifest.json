@@ -1,0 +1,12 @@
+{ 
+    "name": "PornHubParty", 
+    "version": "1.0",
+    "description": "Let's you live stream with others on PornHub and chat",
+    "permisssions": ["storage"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+
+    },
+    "manifest_version": 2
+}
